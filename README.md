@@ -1,23 +1,23 @@
-## Arabic :-
+# Arabic :-
 
-## كيف تركب السكربت .
+# كيف تركب السكربت .
 
-# روح للمسار هذا ( ممكن ان يكون هذا المسار مختلف قليلًا عن الذي لديك ) :-
+## روح للمسار هذا ( ممكن ان يكون هذا المسار مختلف قليلًا عن الذي لديك ) :-
 
-# qb-smallresources\server\logs.lua
+## qb-smallresources\server\logs.lua
 
-# انزل الأسفل الى السطر رقم 41 وانزل سطر اضافي وضع هذا في السطر الذي انشأته
+## انزل الأسفل الى السطر رقم 41 وانزل سطر اضافي وضع هذا في السطر الذي انشأته
 
-#  ['priority'] = '',
+##  ['priority'] = '',
 
-## English :-
+# English :-
 
-## How to setup the script .
+# How to setup the script .
 
-# Go to this file ( Maybe it will be different )
+## Go to this file ( Maybe it will be different )
 
-# qb-smallresources\server\logs.lua
+## qb-smallresources\server\logs.lua
 
-# then go to the line number 41 and press enter and put this
+## then go to the line number 41 and press enter and put this
 
-#  ['priority'] = '',
+##  ['priority'] = '',
