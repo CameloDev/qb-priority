@@ -10,6 +10,9 @@
 
 ##  ['priority'] = '',
 
+# في أحتجتم اي مساعدة يمكنكم التواصل معنا عن الطريق الدسكورد
+# https://discord.gg/efd
+
 # English :-
 
 # How to setup the script .
@@ -21,3 +24,6 @@
 ## then go to the line number 41 and press enter and put this
 
 ##  ['priority'] = '',
+
+# If you need any support you can talk with us here in this discord 
+# https://discord.gg/efd
