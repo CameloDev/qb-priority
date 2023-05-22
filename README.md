@@ -27,3 +27,6 @@
 
 # If you need any support you can talk with us here in this discord 
 # https://discord.gg/efd
+
+https://cdn.discordapp.com/attachments/1110222955969003601/1110284205365149807/image.png
+https://cdn.discordapp.com/attachments/1110222955969003601/1110284205746819183/image.png
