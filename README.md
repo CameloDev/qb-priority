@@ -11,7 +11,7 @@
 ##  ['priority'] = '',
 
 # في أحتجتم اي مساعدة يمكنكم التواصل معنا عن الطريق الدسكورد
-# https://discord.gg/efd
+# https://discord.gg/Ezbu7jBMeh
 
 # English :-
 
@@ -26,7 +26,7 @@
 ##  ['priority'] = '',
 
 # If you need any support you can talk with us here in this discord 
-# https://discord.gg/efd
+# https://discord.gg/Ezbu7jBMeh
 
 https://cdn.discordapp.com/attachments/1110222955969003601/1110284205365149807/image.png
 https://cdn.discordapp.com/attachments/1110222955969003601/1110284205746819183/image.png
